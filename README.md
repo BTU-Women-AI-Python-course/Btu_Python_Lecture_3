@@ -13,6 +13,7 @@
 3. **Lambda Functions** - https://www.w3schools.com/python/python_lambda.asp
    - Discover the power of lambda functions for creating anonymous functions in Python.
    - Learn how to use lambda functions in various contexts for concise and readable code.
+4. **Recusion** - https://www.geeksforgeeks.org/introduction-to-recursion-2/
 
   
 # 📚 Higher-Order Functions with Lambda
